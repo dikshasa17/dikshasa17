@@ -1,165 +1,77 @@
 <div align="center">
 
-# Hi 👋, I'm Diksha Saini
+# Hey there! 👋 I'm Diksha Saini
 
-### 💻 Network Administrator @ Tata Consultancy Services (TCS) | ☁️ Data Engineering Enthusiast
+### 💜 Building my journey from Network Administrator to Data Engineer ☁️
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Building+my+journey+to+Data+Engineering+🚀;SQL+%7C+Python+%7C+AWS+%7C+PySpark;Transforming+Data+into+Insights+📊;Always+Learning+Something+New+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+AWS+%7C+PySpark;Turning+Data+into+Stories+📊;Always+Learning+Something+New+✨;Welcome+to+my+GitHub+💜">
+
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 </div>
 
-<img align="right" alt="Coding Girl" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+---
 
-## 👩🏻‍💻 About Me
+## 🌸 About Me
 
-🎯 Passionate about building scalable data pipelines, cloud-based solutions, and transforming raw data into meaningful insights.
+I'm **Diksha**, currently working at **Tata Consultancy Services (TCS)** as a Network Administrator. While my professional journey began with enterprise networking, my curiosity gradually shifted toward understanding data—how it's collected, processed, and transformed into meaningful decisions.
 
-💼 Currently working as a **Network Administrator @ Tata Consultancy Services (TCS)**.
+Today, I'm focused on becoming a **Data Engineer**, spending my time learning SQL, Python, AWS, PySpark, and building projects that bring together cloud technologies and analytics.
 
-🌱 Currently learning:
-- Apache Spark
-- PySpark
-- AWS Data Engineering
-- Airflow
-- Advanced SQL
-
-📊 Interested in:
-- Data Engineering
-- Cloud Computing
-- Big Data
-- ETL Pipelines
-- Data Analytics
-
-🤝 Looking to collaborate on:
-- Data Engineering Projects
-- SQL Challenges
-- Python Projects
-- Open Source
-
-📫 **Email:** YOUR_EMAIL
-
-⚡ **Fun Fact:** I enjoy solving SQL problems more than scrolling social media. 😄
+For me, every project is another step toward building systems that don't just store data—they make it useful.
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,git,github,vscode,docker,linux"/>
-
-</p>
-
-### 📊 Data Analytics
-
-- Excel
-- Power BI
-- Tableau
-- Pandas
-- NumPy
-- Matplotlib
-
-### ☁️ Data Engineering
-
-- SQL
-- PySpark
-- Apache Spark
-- ETL
-- Data Warehousing
-- AWS
-
----
-
-# 📜 Certifications
-
-🏅 Google Data Analytics Professional Certificate
-
-🏅 IBM Data Analytics Professional Certificate
-
-🏅 Microsoft Power BI Data Analyst Associate
-
-🏅 AWS Certified Cloud Practitioner
-
-🏅 AWS AI Practitioner
-
-🏅 Databricks Fundamentals Accreditation
-
-🏅 Microsoft Azure Data Fundamentals (AZ-900)
-
-🏅 IBM Machine Learning with Python
-
-🏅 HackerRank SQL (Intermediate)
-
----
-
-# 📊 GitHub Stats
+## 💻 Tech I'm Working With
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode,docker,linux"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+📊 SQL • Python • Excel • Power BI • Tableau • Pandas • NumPy • AWS • PySpark • ETL
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## ✨ A Little More About Me
+
+☕ I genuinely enjoy solving SQL queries.
+
+🌙 Most of my learning happens late at night with coffee and music.
+
+📚 I'm currently exploring Data Engineering, Apache Spark, Airflow and scalable cloud architectures.
+
+🚀 My goal is to build data pipelines that can power real-world applications.
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<a href="https://www.linkedin.com/in/dikshasa17/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sainidiksha2404@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/dikshasa17">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </p>
-
----
-
-# 🚀 Current Focus
-
-✨ Mastering SQL & Python
-
-☁️ Learning AWS Data Engineering
-
-⚡ Building ETL Projects
-
-📊 Creating End-to-End Data Pipelines
-
-🎯 Preparing for Data Engineer Roles
 
 ---
 
 <div align="center">
 
-### ⭐ *"Data is only valuable when transformed into meaningful insights."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+### ✨ *"Every expert was once a beginner who refused to quit."*
 
 </div>
