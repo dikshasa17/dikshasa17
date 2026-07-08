@@ -1,45 +1,89 @@
-<h1 align="center">Hi 👋, I'm Diksha Saini</h1>
-<h3 align="center">Aspiring Data Engineer | Network Administrator at TCS</h3>
+# Hi 👋, I'm Diksha Saini
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### Aspiring Data Engineer | Network Administrator at Tata Consultancy Services (TCS), India
 
-- 🌱 Currently learning **SQL, Python, AWS & Data Engineering**
-- 💼 Network Administrator at **TCS**
-- 📊 Passionate about Data Engineering & Analytics
-- 📫 Reach me: your-email@gmail.com
+🎯 Passionate about building scalable data pipelines, transforming raw data into meaningful insights, and solving real-world business problems through data.
 
----
+🤝 I'm looking to collaborate on Data Engineering, ETL, SQL, Python, and Cloud-based analytics projects.
 
-## 🌐 Connect with me
+🌱 I'm currently learning PySpark, Apache Spark, AWS Data Engineering, Airflow, and Advanced SQL.
 
-<p>
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+💼 Currently working as a Network Administrator at Tata Consultancy Services (TCS), where I monitor enterprise network infrastructure, analyze network performance, create dashboards, and generate operational reports.
+
+📊 Interested in Data Engineering, Cloud Technologies, Data Analytics, and Big Data.
+
+📫 Reach me at: **your-email@gmail.com**
+
+⚡ Fun fact: I enjoy turning messy datasets into clean, meaningful stories.
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect with Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode,linux,pandas,numpy" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+- LinkedIn
+- GitHub
+- Email
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia"/>
+## 🖥️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+- MySQL
+
+**Data Engineering**
+- PySpark
+- Apache Spark
+- ETL
+- Data Warehousing
+
+**Cloud**
+- AWS
+- Amazon S3
+- AWS Glue
+- Athena
+- Redshift
+
+**Data Analytics**
+- Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Matplotlib
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📜 Certifications
+
+🏅 AWS Certified Cloud Practitioner
+
+🏅 AWS AI Practitioner
+
+🏅 Google Data Analytics Professional Certificate
+
+🏅 IBM Data Analytics Professional Certificate
+
+🏅 Databricks Fundamentals Accreditation
+
+🏅 Microsoft Power BI Data Analyst Associate
+
+🏅 Microsoft Azure Data Fundamentals (AZ-900)
+
+🏅 HackerRank SQL (Intermediate)
+
+🏅 IBM Machine Learning with Python
+
+---
+
+## 🎯 Career Goal
+
+To become a Data Engineer specializing in cloud-based data platforms, distributed data processing, and scalable ETL solutions.
