@@ -1,77 +1,93 @@
-<div align="center">
+<h2 align="center">Hi 👋, I'm Diksha Saini</h2>
 
-# Hey there! 👋 I'm Diksha Saini
-
-### 💜 Building my journey from Network Administrator to Data Engineer ☁️
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+AWS+%7C+PySpark;Turning+Data+into+Stories+📊;Always+Learning+Something+New+✨;Welcome+to+my+GitHub+💜">
-
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-</div>
-
----
-
-## 🌸 About Me
-
-I'm **Diksha**, currently working at **Tata Consultancy Services (TCS)** as a Network Administrator. While my professional journey began with enterprise networking, my curiosity gradually shifted toward understanding data—how it's collected, processed, and transformed into meaningful decisions.
-
-Today, I'm focused on becoming a **Data Engineer**, spending my time learning SQL, Python, AWS, PySpark, and building projects that bring together cloud technologies and analytics.
-
-For me, every project is another step toward building systems that don't just store data—they make it useful.
-
----
-
-## 💻 Tech I'm Working With
+<h3 align="center">Network Administrator @ Tata Consultancy Services | Data Engineering Enthusiast</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode,docker,linux"/>
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
+<table>
+<tr>
+<td width="55%">
 
-📊 SQL • Python • Excel • Power BI • Tableau • Pandas • NumPy • AWS • PySpark • ETL
+🎯 Passionate about building scalable data pipelines and transforming raw data into meaningful insights.
 
-</p>
+🤝 I'm looking to collaborate on **Data Engineering, SQL, Python, AWS and ETL Projects.**
+
+🌱 I'm currently learning **PySpark, Apache Spark, Airflow and AWS Data Engineering.**
+
+💼 Currently working as a **Network Administrator @ Tata Consultancy Services (TCS).**
+
+📫 Reach me at **sainidiksha2404@gmail.com**
+
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/programmer.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ A Little More About Me
-
-☕ I genuinely enjoy solving SQL queries.
-
-🌙 Most of my learning happens late at night with coffee and music.
-
-📚 I'm currently exploring Data Engineering, Apache Spark, Airflow and scalable cloud architectures.
-
-🚀 My goal is to build data pipelines that can power real-world applications.
-
----
-
-## 🌐 Let's Connect
+<h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/dikshasa17/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sainidiksha2404@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dikshasa17">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,pandas,numpy,git,github,vscode"/>
 
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">📜 Certifications</h2>
 
-### ✨ *"Every expert was once a beginner who refused to quit."*
+- 🏅 Google Data Analytics Professional Certificate
+- 🏅 IBM Data Analytics Professional Certificate
+- 🏅 Microsoft Power BI Data Analyst Associate
+- 🏅 AWS Certified Cloud Practitioner
+- 🏅 AWS AI Practitioner
+- 🏅 Databricks Fundamentals Accreditation
+- 🏅 Microsoft Azure Data Fundamentals (AZ-900)
+- 🏅 IBM Machine Learning with Python
+- 🏅 HackerRank SQL (Intermediate)
 
-</div>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=default&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Data becomes valuable when transformed into meaningful decisions."</i> ✨
+</p>
