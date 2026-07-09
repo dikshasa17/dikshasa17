@@ -8,21 +8,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=7F3FBF&style=flat-square" />
 
-## 💜 About Me
+## About Me
 
-<img align="right" alt="Coding Girl" width="300" src="assets/girl.gif">
 
-- 👩🏻‍💻 I'm a **Network Administrator at Tata Consultancy Services (TCS)** with a growing passion for **Data Engineering**.
+👩🏻‍💻 I'm a **Network Administrator at Tata Consultancy Services (TCS)** with a growing passion for **Data Engineering**.
 
-- 🚀 My journey revolves around learning how data moves, transforms, and powers business decisions.
+🚀 My journey revolves around learning how data moves, transforms, and powers business decisions.
 
-- 🌱 I'm currently sharpening my skills in **SQL, Python, PySpark, Apache Spark, AWS, Airflow, Machine Learning, and AI** while building projects that bridge analytics with cloud technologies.
+🌱 I'm currently sharpening my skills in **SQL, Python, PySpark, Apache Spark, AWS, Airflow, Machine Learning, and AI** while building projects that bridge analytics with cloud technologies.
 
-- 🤝 I enjoy collaborating on meaningful projects, solving real-world data problems, and continuously expanding my knowledge.
+🤝 I enjoy collaborating on meaningful projects, solving real-world data problems, and continuously expanding my knowledge.
 
-- 📫 **Email:** **sainidiksha2404@gmail.com**
+📫 **Email:** **sainidiksha2404@gmail.com**
 
-- ⚡ **Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇**
+⚡ **Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇**
 ---
 
 ## 🌐 Connect With Me
