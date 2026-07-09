@@ -1,19 +1,21 @@
 <div align="center">
 
-## Hiee there! 👋 I'm Diksha Saini
+## Hey there! 👋 I'm Diksha Saini
 
-### Network Administrator @ Tata Consultancy Services (TCS) | Data Engineering Enthusiast
+### Network Administrator @Tata Consultancy Services (TCS) | Data Engineering Enthusiast ✨
 
 </div>
----
+
 <img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=7F3FBF&style=flat-square" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
+<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5vbWE5cjY1a2pkZDg3dzFmbHplbndiZ3JtNmdhNm1uaTUxeTZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8jUfaclrsG9x8At9Z/giphy.gif)" width="380"/>
 
 ## 💜 About Me
 
+<p align="left">
+  
 - I'm a **Network Administrator at Tata Consultancy Services (TCS)** with a growing passion for **Data Engineering**.
 
 - My journey revolves around learning how data moves, transforms, and powers business decisions. 
@@ -25,12 +27,12 @@
 📫 **Email:** **sainidiksha2404@gmail.com**
 
 ⚡ **Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇**
-
+</p>
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/dikshasa17/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -50,7 +52,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p align="lefy">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,pandas,numpy,pytorch,git,github,vscode,docker,linux"/>
 
@@ -62,51 +64,22 @@
 
 <p>
 
-🏅 Google Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
 
-🏅 IBM Data Analytics Professional Certificate
+- IBM Data Analytics Professional Certificate
 
-🏅 Microsoft Power BI Data Analyst Associate
+- Microsoft Power BI Data Analyst Associate
 
-🏅 AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner
 
-🏅 AWS AI Practitioner
+- AWS AI Practitioner
 
-🏅 Databricks Fundamentals Accreditation
+- Databricks Fundamentals Accreditation
 
-🏅 HackerRank SQL (Intermediate)
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dikshasa17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasa17&layout=compact&theme=tokyonight&hide_border=true"/>
+- HackerRank SQL (Intermediate)
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dikshasa17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshasa17&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 <div align="center">
 
