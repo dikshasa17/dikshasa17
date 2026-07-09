@@ -1,17 +1,12 @@
 <div align="center">
 
 ## Hey everyone 👋, I'm Diksha Saini
----
+
 ### Network Administrator @Tata Consultancy Services | Data Engineering Enthusiast
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=6A5ACD&style=flat-square"/>
-
-<br>
-
 <img src="https://media.tenor.com/UrIkFJtDGJ8AAAAd/girl-computer.gif" width="280"/>
-
----
 
 ### 💫 About Me
 
@@ -26,8 +21,6 @@
 📫 **Email:** **sainidiksha2404@gmail.com**
 
 ⚡ Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇
-
----
 
 ## 🌐 Connect with Me
 
@@ -53,33 +46,19 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,pandas,numpy,git,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,pandas,numpy,git,github,vscode"/>
 
 </p>
-
----
 
 ## 📜 Certifications
 
 🏅 Google Data Analytics Professional Certificate
-
 🏅 IBM Data Analytics Professional Certificate
-
 🏅 Microsoft Power BI Data Analyst Associate
-
 🏅 AWS Certified Cloud Practitioner
-
-🏅 AWS AI Practitioner
-
 🏅 Databricks Fundamentals Accreditation
-
-🏅 Microsoft Azure Data Fundamentals (AZ-900)
-
-🏅 IBM Machine Learning with Python
-
 🏅 HackerRank SQL (Intermediate)
-
----
+🏅 AWS AI Practitioner
 
 ## 📊 GitHub Stats
 
@@ -97,10 +76,8 @@
 
 </p>
 
----
-
 <p align="center">
-
-<i>✨ Thanks for visiting my profile! ✨</i>
-
+<i>"Data becomes valuable when transformed into meaningful decisions."</i> ✨
 </p>
+
+
