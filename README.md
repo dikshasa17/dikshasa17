@@ -8,26 +8,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=7F3FBF&style=flat-square" />
 
-<br><br>
-
-<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5vbWE5cjY1a2pkZDg3dzFmbHplbndiZ3JtNmdhNm1uaTUxeTZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8jUfaclrsG9x8At9Z/giphy.gif)" width="380"/>
-
 ## 💜 About Me
 
-<p align="left">
-  
-- I'm a **Network Administrator at Tata Consultancy Services (TCS)** with a growing passion for **Data Engineering**.
+<img align="right" alt="Coding Girl" width="300" src="assets/girl.gif">
 
-- My journey revolves around learning how data moves, transforms, and powers business decisions. 
+- 👩🏻‍💻 I'm a **Network Administrator at Tata Consultancy Services (TCS)** with a growing passion for **Data Engineering**.
 
-- I'm currently sharpening my skills in **SQL, Python, PySpark, Apache Spark, AWS, Airflow, Machine Learning, and AI** while building projects that bridge analytics with cloud technologies.
+- 🚀 My journey revolves around learning how data moves, transforms, and powers business decisions.
 
-- I enjoy collaborating on meaningful projects, solving real-world data problems, and continuously expanding my knowledge.
+- 🌱 I'm currently sharpening my skills in **SQL, Python, PySpark, Apache Spark, AWS, Airflow, Machine Learning, and AI** while building projects that bridge analytics with cloud technologies.
 
-📫 **Email:** **sainidiksha2404@gmail.com**
+- 🤝 I enjoy collaborating on meaningful projects, solving real-world data problems, and continuously expanding my knowledge.
 
-⚡ **Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇**
-</p>
+- 📫 **Email:** **sainidiksha2404@gmail.com**
+
+- ⚡ **Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇**
 ---
 
 ## 🌐 Connect With Me
