@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=7F3FBF&style=flat-square" />
 
 <td align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260"/>
+  <img src="https://media.tenor.com/UrIkFJtDGJ8AAAAd/girl-computer.gif" width="250"/>
 </td>
 
 ## About Me
