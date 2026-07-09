@@ -1,16 +1,15 @@
 <div align="center">
 
-## Hi 👋, I'm Diksha Saini
-
-### Network Administrator @ Tata Consultancy Services | Data Engineering Enthusiast
+## Hey everyone 👋, I'm Diksha Saini
+---
+### Network Administrator @Tata Consultancy Services | Data Engineering Enthusiast
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=6A5ACD&style=flat-square"/>
 
 <br>
 
 <img src="https://media.tenor.com/UrIkFJtDGJ8AAAAd/girl-computer.gif" width="280"/>
-
-</div>
 
 ---
 
@@ -20,13 +19,13 @@
 
 🤝 I'm looking to collaborate on **Data Engineering, SQL, Python, AWS & ETL Projects.**
 
-🌱 Currently learning **PySpark, Apache Spark, Airflow & AWS Data Engineering.**
+🌱 Currently learning **PySpark, Apache Spark, Airflow, ML, AI & AWS Data Engineering.**
 
-💼 Working as a **Network Administrator @ Tata Consultancy Services (TCS).**
+💼 Working as a **Network Administrator @Tata Consultancy Services (TCS).**
 
 📫 **Email:** **sainidiksha2404@gmail.com**
 
-⚡ Fun Fact: *Coffee + SQL = Happiness ☕*
+⚡ Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇
 
 ---
 
