@@ -1,32 +1,38 @@
 <div align="center">
 
-## Hey everyone 👋, I'm Diksha Saini
+## Hiee there! 👋 I'm Diksha Saini
 
-### Network Administrator @Tata Consultancy Services | Data Engineering Enthusiast
+### Network Administrator @ Tata Consultancy Services (TCS) | Data Engineering Enthusiast
+
 </div>
+---
+<img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=7F3FBF&style=flat-square" />
 
-<img src="https://komarev.com/ghpvc/?username=dikshasa17&label=Profile%20Views&color=6A5ACD&style=flat-square"/>
-<img src="https://media.tenor.com/UrIkFJtDGJ8AAAAd/girl-computer.gif" width="280"/>
+<br><br>
 
-### 💫 About Me
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
-🎯 Passionate about building scalable data pipelines and transforming raw data into meaningful insights.
+## 💜 About Me
 
-🤝 I'm looking to collaborate on **Data Engineering, SQL, Python, AWS & ETL Projects.**
+- I'm a **Network Administrator at Tata Consultancy Services (TCS)** with a growing passion for **Data Engineering**.
 
-🌱 Currently learning **PySpark, Apache Spark, Airflow, ML, AI & AWS Data Engineering.**
+- My journey revolves around learning how data moves, transforms, and powers business decisions. 
 
-💼 Working as a **Network Administrator @Tata Consultancy Services (TCS).**
+- I'm currently sharpening my skills in **SQL, Python, PySpark, Apache Spark, AWS, Airflow, Machine Learning, and AI** while building projects that bridge analytics with cloud technologies.
+
+- I enjoy collaborating on meaningful projects, solving real-world data problems, and continuously expanding my knowledge.
 
 📫 **Email:** **sainidiksha2404@gmail.com**
 
-⚡ Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇
+⚡ **Beyond coding, I'm probably enjoying a Triple Chocolate Belgian Waffle while planning my next project. 🍫🧇**
 
-## 🌐 Connect with Me
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dikshasa17/">
+<a href="https://www.linkedin.com/in/dikshasa17/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -46,27 +52,41 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,pandas,numpy,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,pandas,numpy,pytorch,git,github,vscode,docker,linux"/>
 
 </p>
 
+---
+
 ## 📜 Certifications
 
+<p>
+
 🏅 Google Data Analytics Professional Certificate
+
 🏅 IBM Data Analytics Professional Certificate
+
 🏅 Microsoft Power BI Data Analyst Associate
+
 🏅 AWS Certified Cloud Practitioner
-🏅 Databricks Fundamentals Accreditation
-🏅 HackerRank SQL (Intermediate)
+
 🏅 AWS AI Practitioner
+
+🏅 Databricks Fundamentals Accreditation
+
+🏅 HackerRank SQL (Intermediate)
+
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dikshasa17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dikshasa17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasa17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasa17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,8 +96,20 @@
 
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-<i>"Data becomes valuable when transformed into meaningful decisions."</i> ✨
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshasa17&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
+---
 
+<div align="center">
+
+> *"Data becomes valuable when transformed into meaningful decisions."* ✨
+
+</div>
